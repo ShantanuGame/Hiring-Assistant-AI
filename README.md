@@ -26,7 +26,8 @@ TalentScout AI Hiring Assistant is an intelligent chatbot designed to streamline
 - **Frontend & UI:** Streamlit  
 - **Backend & AI Engine:** Python, OpenRouter GPT/Grok models  
 - **Data Handling:** Pandas for storing candidate info and answers  
-- **Environment Management:** dotenv for API key management  
+- **Environment Management:** dotenv for API key management
+- **API keys :** https://openrouter.ai/
 
 ---
 
@@ -48,3 +49,7 @@ pip install -r requirements.txt
 
 # Run locally
 streamlit run app.py
+
+```
+
+## Note:- You will need to update the API key from OPENROUTER 
